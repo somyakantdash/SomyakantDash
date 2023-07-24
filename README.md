@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somyakant Dash</h1>
 <h3 align="center">A passionate software engineering from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY0d3UwZmRjcmczcnNpdDhuMjJ5bnhoN3VrdGVudGxkbHNleTk0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 - 🌱 I’m currently learning **React Js & Programming language**
 
 - 📫 How to reach me **somyakantdash@gmail.com**
