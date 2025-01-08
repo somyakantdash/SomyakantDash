@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Somyakant Dash</h1>
 <h3 align="center">A passionate software engineering from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY0d3UwZmRjcmczcnNpdDhuMjJ5bnhoN3VrdGVudGxkbHNleTk0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align ="right" alt="coding" width="400" src ="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 - 🌱 I’m currently learning **React Js & Programming language**
 
 - 📫 How to reach me **somyakantdash@gmail.com**
